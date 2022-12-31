@@ -17,6 +17,9 @@
 <a href="https://www.instagram.com/9705.nika/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+  <a href="https://www.facebook.com/nika.catchs.the.night/">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/123/123717.png"/>
+</a>
 </p>
 
 <p align="center">
