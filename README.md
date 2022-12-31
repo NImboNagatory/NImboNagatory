@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src="https://media1.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=ecf05e47h0hsycen5vwrl3ofgt52yvtsslpfi25d43utm6ut&rid=giphy.gif&ct=g">
 </p>
