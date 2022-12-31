@@ -8,10 +8,10 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/](https://www.linkedin.com/in/%E1%83%9C%E1%83%98%E1%83%99%E1%83%90-%E1%83%A8%E1%83%98%E1%83%9C%E1%83%AF%E1%83%98%E1%83%99%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98-b6b493241/">
+<a href="https://www.linkedin.com/in/%E1%83%9C%E1%83%98%E1%83%99%E1%83%90-%E1%83%A8%E1%83%98%E1%83%9C%E1%83%AF%E1%83%98%E1%83%99%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98-b6b493241/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://dev.to/thepiyushmalhotra](https://dev.to/nimbonnagatory">
+<a href="https://dev.to/nimbonnagatory">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
 <a href="https://twitter.com/Ipiyushmalhotra">
