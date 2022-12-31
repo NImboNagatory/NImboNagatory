@@ -25,3 +25,29 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=ecf05e47h0hsycen5vwrl3ofgt52yvtsslpfi25d43utm6ut&rid=giphy.gif&ct=g">
 </p>
+
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Nika Shinjikashvili
+located_in: Georgia, Kaheti
+current_job: Python Developer
+education:
+  [
+    "Self-Taught Developer",  
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "Game Development",
+    "DevOps",
+  ]
+ 
+currently_learning: ["Docker, Kubernetes and React Native"]
+2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
+```
