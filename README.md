@@ -33,21 +33,18 @@
 name: Nika Shinjikashvili
 located_in: Georgia, Kaheti
 current_job: Python Developer
-education:
+education=
   [
     "Self-Taught Developer",  
   ]
 
-fields_of_interests:
+fields_of_interests=
   [
-    "Web Development",
     "Data Science",
     "Machine Learning",
     "Game Development",
-    "DevOps",
   ]
  
-currently_learning: ["Docker, Kubernetes and React Native"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 ```
