@@ -56,8 +56,6 @@ hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NImboNagatory&theme=noctis_minimus&show_icons=true" />
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-  
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
