@@ -35,7 +35,8 @@ located_in: Georgia, Kaheti
 current_job: Python Developer
 education=
   [
-    "Self-Taught Developer",  
+    "Self-Taught Developer",
+    "Student of BTU"
   ]
 
 fields_of_interests=
