@@ -42,8 +42,7 @@ education=
 fields_of_interests=
   [
     "Data Science",
-    "Machine Learning",
-    "Game Development",
+    "Web",
   ]
  
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
