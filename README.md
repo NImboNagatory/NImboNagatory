@@ -45,7 +45,7 @@ fields_of_interests=
     "Web",
   ]
  
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 ```
 <h2> 📈 &nbsp;My GitHub History!</h2>
