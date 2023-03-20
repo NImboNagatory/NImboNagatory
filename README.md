@@ -32,7 +32,7 @@
 ```yaml
 name: Nika Shinjikashvili
 located_in: Georgia, Kaheti
-current_job: Python Developer
+Seeking_job: Python Developer
 education=
   [
     "Self-Taught Developer",
