@@ -42,7 +42,7 @@ education=
 fields_of_interests=
   [
     "Data Science",
-    "Machine Science",
+    "Machine Learning",
     "Testing"
   ]
  
