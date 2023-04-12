@@ -42,7 +42,8 @@ education=
 fields_of_interests=
   [
     "Data Science",
-    "Web",
+    "Machine Science",
+    "Testing"
   ]
  
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
